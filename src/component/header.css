@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+.header{
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+.main{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.main Link {
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
